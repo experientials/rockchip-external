@@ -1,0 +1,81 @@
+[submodule "rknn-toolkit"]
+	path = rknn-toolkit
+	url = https://digitalgap@gitlab.com/firefly-linux/external/rknn-toolkit
+[submodule "rkmedia"]
+	path = rkmedia
+	url = https://digitalgap@gitlab.com/firefly-linux/external/rkmedia
+[submodule "rkfacial"]
+	path = rkfacial
+	url = https://digitalgap@gitlab.com/firefly-linux/external/rkfacial
+[submodule "tensorflow"]
+	path = tensorflow
+	url = https://digitalgap@gitlab.com/firefly-linux/external/tensorflow
+[submodule "rknpu"]
+	path = rknpu
+	url = https://digitalgap@gitlab.com/firefly-linux/external/rknpu
+[submodule "rkssd"]
+	path = rkssd
+	url = https://digitalgap@gitlab.com/firefly-linux/external/rkssd
+[submodule "rkscript"]
+	path = rkscript
+	url = https://digitalgap@gitlab.com/firefly-linux/external/rkscript
+[submodule "rktoolkit"]
+	path = rktoolkit
+	url = https://digitalgap@gitlab.com/firefly-linux/external/rktoolkit
+[submodule "recovery"]
+	path = recovery
+	url = https://digitalgap@gitlab.com/firefly-linux/external/recovery
+[submodule "rkwifibt"]
+	path = rkwifibt
+	url = https://digitalgap@gitlab.com/firefly-linux/external/rkwifibt
+[submodule "rkupdate"]
+	path = rkupdate
+	url = https://digitalgap@gitlab.com/firefly-linux/external/rkupdate
+[submodule "rockface"]
+	path = rockface
+	url = https://digitalgap@gitlab.com/firefly-linux/external/rockface
+[submodule "camera_engine_rkaiq"]
+	path = camera_engine_rkaiq
+	url = https://digitalgap@gitlab.com/firefly-linux/external/camera_engine_rkaiq
+[submodule "libdrm"]
+	path = libdrm
+	url = https://digitalgap@gitlab.com/firefly-linux/external/libdrm
+[submodule "rockx"]
+	path = rockx
+	url = https://digitalgap@gitlab.com/firefly-linux/external/rockx
+[submodule "RKNPUTools"]
+	path = RKNPUTools
+	url = https://digitalgap@gitlab.com/firefly-linux/external/RKNPUTools
+[submodule "uac_app"]
+	path = uac_app
+	url = https://digitalgap@gitlab.com/firefly-linux/external/uac_app
+[submodule "uvc_app"]
+	path = uvc_app
+	url = https://digitalgap@gitlab.com/firefly-linux/external/uvc_app
+[submodule "minilogger"]
+	path = minilogger
+	url = https://digitalgap@gitlab.com/firefly-linux/external/minilogger
+[submodule "wifiAutoSetup"]
+	path = wifiAutoSetup
+	url = https://digitalgap@gitlab.com/firefly-linux/external/wifiAutoSetup
+[submodule "eq_drc_process"]
+	path = eq_drc_process
+	url = https://digitalgap@gitlab.com/firefly-linux/external/eq_drc_process
+[submodule "common_algorithm"]
+	path = common_algorithm
+	url = https://digitalgap@gitlab.com/firefly-linux/external/common_algorithm
+[submodule "mpp"]
+	path = mpp
+	url = https://digitalgap@gitlab.com/firefly-linux/external/mpp
+[submodule "pcba_adb_test"]
+	path = pcba_adb_test
+	url = https://digitalgap@gitlab.com/firefly-linux/external/pcba_adb_test
+[submodule "ble_wificonfig"]
+	path = ble_wificonfig
+	url = https://digitalgap@gitlab.com/firefly-linux/external/ble_wificonfig
+[submodule "rk_pcba_test"]
+	path = rk_pcba_test
+	url = https://digitalgap@gitlab.com/firefly-linux/external/rk_pcba_test
+[submodule "deviceio_release"]
+	path = deviceio_release
+	url = https://digitalgap@gitlab.com/firefly-linux/external/deviceio_release
