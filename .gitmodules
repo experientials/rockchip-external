@@ -79,3 +79,15 @@
 [submodule "deviceio_release"]
 	path = deviceio_release
 	url = https://digitalgap@gitlab.com/firefly-linux/external/deviceio_release
+[submodule "alsa-config"]
+	path = alsa-config
+	url = https://digitalgap@gitlab.com/firefly-linux/external/alsa-config
+[submodule "bluez-alsa"]
+	path = bluez-alsa
+	url = https://digitalgap@gitlab.com/firefly-linux/external/bluez-alsa
+[submodule "broadcom_bsa"]
+	path = broadcom_bsa
+	url = https://digitalgap@gitlab.com/firefly-linux/external/broadcom_bsa
+[submodule "bluetooth_bsa"]
+	path = bluetooth_bsa
+	url = https://digitalgap@gitlab.com/firefly-linux/external/bluetooth_bsa
