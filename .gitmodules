@@ -91,3 +91,24 @@
 [submodule "bluetooth_bsa"]
 	path = bluetooth_bsa
 	url = https://digitalgap@gitlab.com/firefly-linux/external/bluetooth_bsa
+[submodule "linux-rga"]
+	path = linux-rga
+	url = git@github.com:rockchip-linux/linux-rga.git
+[submodule "CallFunIpc"]
+	path = CallFunIpc
+	url = https://digitalgap@gitlab.com/firefly-linux/external/CallFunIpc
+[submodule "arcface_app"]
+	path = arcface_app
+	url = https://digitalgap@gitlab.com/firefly-linux/external/arcface_app
+[submodule "avb"]
+	path = avb
+	url = https://digitalgap@gitlab.com/firefly-linux/external/avb
+[submodule "isp2-ipc"]
+	path = isp2-ipc
+	url = https://digitalgap@gitlab.com/firefly-linux/external/isp2-ipc
+[submodule "rockit"]
+	path = rockit
+	url = https://digitalgap@gitlab.com/firefly-linux/external/rockit
+[submodule "xhlpr_app"]
+	path = xhlpr_app
+	url = https://gitlab.com/firefly-linux/external/xhlpr_app
