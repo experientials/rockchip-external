@@ -112,3 +112,6 @@
 [submodule "xhlpr_app"]
 	path = xhlpr_app
 	url = https://gitlab.com/firefly-linux/external/xhlpr_app
+[submodule "arcuvc_app"]
+	path = arcuvc_app
+	url = https://digitalgap@gitlab.com/firefly-linux/external/arcuvc_app
