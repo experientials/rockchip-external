@@ -115,3 +115,6 @@
 [submodule "arcuvc_app"]
 	path = arcuvc_app
 	url = https://digitalgap@gitlab.com/firefly-linux/external/arcuvc_app
+[submodule "camera_engine_rkisp"]
+	path = camera_engine_rkisp
+	url = git@github.com:rockchip-linux/camera_engine_rkisp.git
